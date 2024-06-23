@@ -6,4 +6,5 @@
 #--platform=linux/arm64 xiaoyaliu/alist
 #chainguard/busybox
 #rapidfort/fluentd-elasticsearch:latest
-busybox:1.28.2
+#busybox:1.28.2
+agilestacks/fluentd-elasticsearch:v1.3.0
