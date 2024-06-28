@@ -7,4 +7,5 @@
 #chainguard/busybox
 #rapidfort/fluentd-elasticsearch:latest
 #busybox:1.28.2
-agilestacks/fluentd-elasticsearch:v1.3.0
+#agilestacks/fluentd-elasticsearch:v1.3.0
+google_containers/metrics-server:v0.6.2
