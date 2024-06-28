@@ -9,4 +9,5 @@
 #busybox:1.28.2
 #agilestacks/fluentd-elasticsearch:v1.3.0
 #google_containers/metrics-server:v0.6.2
-metrics-server/metrics-server:v0.7.1
+#metrics-server/metrics-server:v0.7.1
+cnbugs/metrics-server:latest
