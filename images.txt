@@ -11,4 +11,4 @@
 #google_containers/metrics-server:v0.6.2
 #metrics-server/metrics-server:v0.7.1
 #cnbugs/metrics-server:latest
-giantswarm/nginx-ingress-controller:1.4.0
+registry.cn-hangzhou.aliyuncs.com/google_containers/nginx-ingress-controller:v1.5.1
