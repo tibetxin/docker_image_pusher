@@ -10,4 +10,5 @@
 #agilestacks/fluentd-elasticsearch:v1.3.0
 #google_containers/metrics-server:v0.6.2
 #metrics-server/metrics-server:v0.7.1
-cnbugs/metrics-server:latest
+#cnbugs/metrics-server:latest
+google_containers/nginx-ingress-controller
