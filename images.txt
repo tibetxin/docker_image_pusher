@@ -11,4 +11,5 @@
 #google_containers/metrics-server:v0.6.2
 #metrics-server/metrics-server:v0.7.1
 #cnbugs/metrics-server:latest
-registry.cn-hangzhou.aliyuncs.com/google_containers/nginx-ingress-controller:v1.5.1
+#registry.cn-hangzhou.aliyuncs.com/google_containers/nginx-ingress-controller:v1.5.1
+registry.cn-hangzhou.aliyuncs.com/google_containers/kube-webhook-certgen:v20220916-gd32f8c343
